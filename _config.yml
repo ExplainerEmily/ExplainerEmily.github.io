@@ -54,8 +54,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
-
+  - jekyll-include-cache 
+  
 author:
   name   : "Emily Trudeau"
   avatar : "/assets/images/bio-photo.jpg"
