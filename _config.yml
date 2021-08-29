@@ -13,20 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Explainer Emily
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  I'm a technical writer and here's some of my work that I am most proud of
+github_username: ExplainerEmily
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+url: "https://explaineremily.github.com"
+baseurl: "/explaineremily"
+masthead_title: "Explainer Emily"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -60,29 +61,17 @@ plugins:
 author:
   name   : "Emily Trudeau"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technical writer based in Minneapolis"
+  bio    : "Technical writer based in Minneapolis, a budding gardener, and cheese curd aficionado"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "linkedIn"
-      icon: "fab fa-fw fa-linkedIn"
-      url: ""
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/emily-trudeau-99833161/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/emily-trudeau-99833161/"
 
 defaults:
   # _posts
