@@ -5,13 +5,6 @@
     {% assign path_type = nil %}
 {% endcase %}
 
-{% if page.collection != 'posts' %}
-  {% assign path_type = nil %}
-  {% assign crumb_path = '/' %}
-{% else %}
-  {% assign crumb_path = site.category_archive.path %}
-{% endif %}
-
 <nav class="breadcrumbs">
   <ol itemscope itemtype="https://schema.org/BreadcrumbList">
     {% assign crumbs = page.url | split: '/' %}
