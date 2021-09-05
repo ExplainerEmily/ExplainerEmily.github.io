@@ -16,7 +16,7 @@
 title: Explainer Emily
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a technical writer and here's some of my work that I am most proud of
+  Minnneapolis-based technical writer portfolio
 github_username: ExplainerEmily
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: mint
@@ -26,8 +26,9 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 masthead_title: "Explainer Emily"
+logo: "/assets/images/icon.png"
 # Outputting
-permalink: /:categories/:title/
+permalink: /
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
