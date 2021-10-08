@@ -21,6 +21,7 @@ github_username: ExplainerEmily
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: mint
 search: true
+github: [metadata]
 
 # Build settings
 markdown: kramdown
