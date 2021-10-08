@@ -177,18 +177,18 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: #A5A58D;
+  background: #CB997E;
 
   a {
     display: block;
     margin: 0 1rem;
-    color: #555A49;
+    color: #fff;
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
 
     &:hover {
-      color: #555A49;
+      color: #fff;
     }
 
     &.site-logo {
@@ -243,7 +243,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #555A49;
+        background: #A06240;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

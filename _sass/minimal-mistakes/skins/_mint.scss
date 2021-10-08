@@ -3,16 +3,16 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #f3f6f6 !default;
-$text-color: #40514e !default;
-$muted-text-color: #40514e !default;
-$primary-color: #555A49 !default;
-$border-color: mix(#fff, #40514e, 75%) !default;
+$background-color: #fff !default;
+$text-color: rgb(0, 0, 0) !default;
+$muted-text-color: #000000 !default;
+$primary-color: #11999e !default;
+$border-color: mix(#fff, #CB997E, 75%) !default;
 $footer-background-color: #CB997E !default;
-$link-color: #555A49 !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$link-color: #11999e !default;
+$masthead-link-color: #fff !default;
+$masthead-link-color-hover: #fff !default;
+$navicon-link-color-hover: mix(#fff, #CB997E, 80%) !default;
 
 .page__footer {
   color: #fff !important; // override
