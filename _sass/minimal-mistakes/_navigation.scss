@@ -215,6 +215,7 @@
     outline: none;
     background-color: transparent;
     cursor: pointer;
+    
   }
 
   .visible-links {
@@ -256,6 +257,7 @@
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); // reveal
+        
       }
     }
   }
@@ -281,6 +283,7 @@
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      
 
       &:hover {
         color: $masthead-link-color-hover;
