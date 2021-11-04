@@ -1,5 +1,5 @@
 ---
-title: "Examples of my work"
+title: "So you're wondering what I've done..."
 permalink: /MyWork/
 layout: single
 author_profile: true
@@ -8,7 +8,7 @@ toc_sticky: true
 ---
 
 # UX writing
-The most helpful kind of documentation is the one the user actually reads. That's why the UX text is such an important piece of the puzzle– it can answer common user questions while they are using the product. Or for more complex topics, walkthroughs can focus users on the most important tasks or guide the user to a longer tutorial.  
+The most helpful kind of documentation is the one the user actually reads–that's why UX copy is such an important piece of the puzzle. It can answer a user's question without having to leave the product. With good copy and product design, more complex user tasks can be broken down into managable chunks. 
 
 Here's some examples of times when I have collaborated with product designers and developers to create helpful UX text. 
 
@@ -21,19 +21,20 @@ Here's some examples of times when I have collaborated with product designers an
 ![Mapping Options](/assets/images/ModalMappingUXText.png)
 
 
-# Building robust, accurate, and helpful documentation
-I am an expert in creating the right content needed for a feature, release, or integration.  
+# User personas and customer journey maps
+I am an expert in creating the right content needed for a feature, release, or integration.    
 
-I've written for audiences from the average at-home computer user, academic researchers, experienced admins, and developers. The most helpful cotent meets the user where they are at, so I like to work with detailed user personas to better understand my audience. 
+I've written for for a wide-range of audiences-including the average at-home computer user, academic researchers, experienced admins, and developers. The key to writing helpful content for any audience is to meet the user where they are at, which is why I like to work with detailed user personas and customer journey maps to better understand the intended audience for my writing.  
 
-My experience building a documentation suite from scratch as a lone writer was difficult, but through it I learned how to prioritze work to make the most impact. It also required that I learned how to leverage my SMEs and other resources in the company. I found that through teaching others about documentation, I enjoy teaching and mentoring. In my next role I am looking for the opportunity to dig deeper into the mentor role and teach more junior writers the ins and outs of the role. 
+# Product documentation
+The bulk of my experience is in building product documentation. I have written getting started guides, integation guides, FAQs, and reference material from scratch. Building a documentation suite from a few articles to over 250 as a lone writer was difficult, but it is also a great way to learn the importance of prioritzation and how to make the most impact. 
 
-I have mainly worked within scrum teams to write my documentation. I enjoy this approach because it allows me to be involved in decisions early on to help avoid more documentation issues. Sometimes writing out a process in a draft can show product and development that we should reconsider.
+It also required that I learned how to leverage SMEs and other resources in the company. Through teaching others about the importance of documentation, I have learned that I enjoy teaching and mentoring. In my next role I am looking for the opportunity to be in a mentor role and teach more junior writers the ins and outs. 
 
-I have also written extensively about integrations, which require research into the other tool as well as leveraging their documentation to make sure users can complete the task
+I have mainly worked within scrum teams to write my documentation. I enjoy this approach because it allows me to be involved in decisions early on to help avoid more documentation issues. Sometimes writing out a process in a draft can show product and development that we should reconsider how a feature works.
 
 # Tools I've used
- New tools are coming out all time to help build great documentation, so one of my most useful skills is being able to learn how to use new tools as the role requires. My strongest tool skill is the ability to learn new tools. 
+ My strongest skill is the ability to learn new tools. New tools are coming out all time to help build great documentation, so I am a strong believer in one of my most useful skills is being able to learn how to use new tools as the role requires. 
 But in case you are wondering, here's some tools I have used in the past. 
 ## Static Sites
 Static sites are great ways to create and publish clean, efficient documentation. I have experience integrating staic sites generators into Gitlab workflows, so that API and developer documentation can be updated along with the code. 
@@ -48,7 +49,7 @@ or you can [view it yourself](https://sdk.flywheel.io)
 
 ## Structured authoring
 
-After reviewing the vast options available to create and maintain documentation, I choose to go with the structured authoring approach. Paligo is an XML-based tool that allowed me to write once and publish to multiple forms.  
+After reviewing the vast options available to create and maintain documentation, I choose to go with the structured authoring approach. Paligo is an XML-based tool that allows me to write once and publish to multiple forms.  
 
 ## Other tools to help get the job done
 - Jira
@@ -58,8 +59,11 @@ After reviewing the vast options available to create and maintain documentation,
 - Zendesk Guide
 - Gitlab
 - Github
+- SnagIt
+- Visual studio
 
 # Relevant Skills
 - Python (read and understand with some beginner ability to write my own code)
 - HTML
 - CSS
+- Markdown
