@@ -1,5 +1,5 @@
 ---
-title: "So you're wndering what I can do..."
+title: "So you're wondering what I can do..."
 permalink: /MyWork/
 layout: single
 author_profile: true
@@ -30,10 +30,17 @@ Below are a few examples of tutorials and reference guides I have created from s
 - Reference article for config file ([View the article online](https://docs.flywheel.io/hc/en-us/articles/4406976465939-The-OHIF-config-file) | Downlod PDF)
 
  
-# Static Sites
-I have built a few sites using static site generators, and I think they are great ways to create clean, efficient documentation. Some examples of my sites: 
--  ![Developer Documentation portal](/assets/images/DeveloperDocumentationPortal.png) or you can [view it yourself](https://sdk.flywheel.io)
--  This site was even made with [Jekyll](https://jekyllrb.com/)! 
+# Static sites
+I have built a few sites using static site generators, and I think they are great ways to create clean, efficient documentation. 
+
+Below are some sites I have built myself: 
+
+Developer documentation including an auto-generated API reference from an openAPI spec. [See the developer documentation](https://sdk.flywheel.io)
+
+![Developer Documentation portal](/assets/images/DeveloperDocumentationPortal.png) 
+
+
+You can also take a look at [my Github project for this site](https://github.com/ExplainerEmily/ExplainerEmily.github.io) (this site was even made with [Jekyll](https://jekyllrb.com/)! )
  
 
 # Tools to help get the job done
@@ -48,7 +55,7 @@ Here are the tools i've used to build the examples above:
 - Paligo
 - SnagIt
 
-# And some relevant Skills
+# And some relevant skills
 - Python 
 - HTML
 - CSS
