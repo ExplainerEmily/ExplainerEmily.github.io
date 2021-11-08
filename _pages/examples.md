@@ -26,20 +26,8 @@ I am an expert in creating the right content needed for a feature, release, or i
 
 Below are a few examples of tutorials and reference guides I have created from scratch.
 
-## Tutorial for creating a yaml template 
-
-[View the article online](https://docs.flywheel.io/hc/en-us/articles/1500006024162-Overview) 
-
-Or download the PDF
-
-![PDF1](/assets/pdfs/Create_a_template_for_uploading_data-en.pdf)
-
-## Reference article for config file 
-[View the article online](https://docs.flywheel.io/hc/en-us/articles/4406976465939-The-OHIF-config-file) 
-
-Or download the PDF
-
-![PDF2](/assets/pdfs/The_OHIF_config_file-en.pdf)
+- **Tutorial for creating a yaml template**: [view the article online](https://docs.flywheel.io/hc/en-us/articles/1500006024162-Overview) or download the [PDF](/assets/pdfs/Create_a_template_for_uploading_data-en.pdf)
+- **Reference article for config file**: [view the article online](https://docs.flywheel.io/hc/en-us/articles/4406976465939-The-OHIF-config-file) or download the [PDF](/assets/pdfs/The_OHIF_config_file-en.pdf)
 
  
 # Static sites
@@ -67,7 +55,7 @@ Here are the tools I've used to build the examples above:
 - Paligo
 - SnagIt
 
-# skills
+# Skills
 And here are some of the skills I used:
 - Python 
 - HTML
