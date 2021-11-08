@@ -26,8 +26,20 @@ I am an expert in creating the right content needed for a feature, release, or i
 
 Below are a few examples of tutorials and reference guides I have created from scratch.
 
-- Tutorial for creating a yaml template ([View the article online](https://docs.flywheel.io/hc/en-us/articles/1500006024162-Overview) | Download PDF)
-- Reference article for config file ([View the article online](https://docs.flywheel.io/hc/en-us/articles/4406976465939-The-OHIF-config-file) | Downlod PDF)
+## Tutorial for creating a yaml template 
+
+[View the article online](https://docs.flywheel.io/hc/en-us/articles/1500006024162-Overview) 
+
+Or download the PDF
+
+![PDF1](/assets/pdfs/Create_a_template_for_uploading_data-en.pdf)
+
+## Reference article for config file 
+[View the article online](https://docs.flywheel.io/hc/en-us/articles/4406976465939-The-OHIF-config-file) 
+
+Or download the PDF
+
+![PDF2](/assets/pdfs/The_OHIF_config_file-en.pdf)
 
  
 # Static sites
@@ -40,22 +52,23 @@ Developer documentation including an auto-generated API reference from an openAP
 ![Developer Documentation portal](/assets/images/DeveloperDocumentationPortal.png) 
 
 
-You can also take a look at [my Github project for this site](https://github.com/ExplainerEmily/ExplainerEmily.github.io) (this site was even made with [Jekyll](https://jekyllrb.com/)! )
+You can also take a look at [my Github project for this site](https://github.com/ExplainerEmily/ExplainerEmily.github.io) (this site was made with [Jekyll](https://jekyllrb.com/)! )
  
 
-# Tools to help get the job done
-Here are the tools i've used to build the examples above: 
+# Tools
+Here are the tools I've used to build the examples above: 
 - Jira
 - Confluence
 - Adobe Illustrator and Photoshop
-- Mindtouch (CMS)
+- Mindtouch
 - Zendesk Guide
 - Gitlab
 - Github
 - Paligo
 - SnagIt
 
-# And some relevant skills
+# skills
+And here are some of the skills I used:
 - Python 
 - HTML
 - CSS
