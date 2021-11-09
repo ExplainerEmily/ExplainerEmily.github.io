@@ -12,14 +12,17 @@ UX text is such an important piece of the documentation puzzle– it can answer 
 
 Here's some examples of times when I have collaborated with product designers and developers to create helpful UX text. 
 
+**Empty state**
 ![Authentication Empty State](/assets/images/EmptyStateAddSSO.png)
-
-![Authentication Settings](/assets/images/AuthenticationUXText.png)
-
 ![Add Provisioning](/assets/images/AddProvisioningUXText.png)
 
+**Helping users update settings**
+![Authentication Settings](/assets/images/AuthenticationUXText.png)
 ![Mapping Options](/assets/images/ModalMappingUXText.png)
+![Frequency and versions](/assets/images/frequencyandversions.png)
 
+**Alerts**
+![Notification](/_site/assets/images/CloudSSO-identity-mgmt-details.png)
 
 # Product documentation
 I am an expert in creating the right content needed for a feature, release, or integration. I use compile data from site analytics, support tickets, and internal stakeholders to prioritize documentation needs. 
