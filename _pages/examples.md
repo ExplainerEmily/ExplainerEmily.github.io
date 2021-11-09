@@ -22,7 +22,7 @@ Here's some examples of times when I have collaborated with product designers an
 ![Frequency and versions](/assets/images/frequencyandversions.png)
 
 **Alerts**
-![Notification](/_site/assets/images/CloudSSO-identity-mgmt-details.png)
+![Notification](/assets/images/CloudSSO-identity-mgmt-details.png)
 
 # Product documentation
 I am an expert in creating the right content needed for a feature, release, or integration. I use compile data from site analytics, support tickets, and internal stakeholders to prioritize documentation needs. 
