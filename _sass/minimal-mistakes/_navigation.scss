@@ -446,7 +446,7 @@
   font-size: 1.25rem;
 
   a {
-    color: inherit;
+    color: #555A49;
   }
 
   .active {
@@ -454,6 +454,7 @@
     padding-left: 0.5em;
     padding-right: 0.5em;
     font-weight: bold;
+
   }
 
   @include breakpoint(max-width $large - 1px) {
@@ -526,7 +527,7 @@
 
   // Scrollspy marks toc items as .active when they are in focus
   .active a {
-    @include yiq-contrasted($active-color);
+    color:#CB997E;
   }
 }
 
