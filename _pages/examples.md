@@ -1,5 +1,5 @@
 ---
-title: "So you're wondering what I've done..."
+title: "So you're wondering what I can do..."
 permalink: /MyWork/
 layout: single
 author_profile: true
@@ -8,62 +8,59 @@ toc_sticky: true
 ---
 
 # UX writing
-The most helpful kind of documentation is the one the user actually reads–that's why UX copy is such an important piece of the puzzle. It can answer a user's question without having to leave the product. With good copy and product design, more complex user tasks can be broken down into managable chunks. 
+UX text is such an important piece of the documentation puzzle– it can answer common product questions without taking the user out of their workflow. Users want to be able to self service, so the right UX text empowers users to be successful on their own.  
 
 Here's some examples of times when I have collaborated with product designers and developers to create helpful UX text. 
 
+**Empty state**
 ![Authentication Empty State](/assets/images/EmptyStateAddSSO.png)
-
-![Authentication Settings](/assets/images/AuthenticationUXText.png)
-
 ![Add Provisioning](/assets/images/AddProvisioningUXText.png)
 
+**Helping users update settings**
+![Authentication Settings](/assets/images/AuthenticationUXText.png)
 ![Mapping Options](/assets/images/ModalMappingUXText.png)
+![Frequency and versions](/assets/images/frequencyandversions.png)
 
-
-# User personas and customer journey maps
-I am an expert in creating the right content needed for a feature, release, or integration.    
-
-I've written for for a wide-range of audiences-including the average at-home computer user, academic researchers, experienced admins, and developers. The key to writing helpful content for any audience is to meet the user where they are at, which is why I like to work with detailed user personas and customer journey maps to better understand the intended audience for my writing.  
+**Alerts**
+![Notification](/assets/images/CloudSSO-identity-mgmt-details.png)
 
 # Product documentation
-The bulk of my experience is in building product documentation. I have written getting started guides, integation guides, FAQs, and reference material from scratch. Building a documentation suite from a few articles to over 250 as a lone writer was difficult, but it is also a great way to learn the importance of prioritzation and how to make the most impact. 
+I am an expert in creating the right content needed for a feature, release, or integration. I use compile data from site analytics, support tickets, and internal stakeholders to prioritize documentation needs. 
 
-It also required that I learned how to leverage SMEs and other resources in the company. Through teaching others about the importance of documentation, I have learned that I enjoy teaching and mentoring. In my next role I am looking for the opportunity to be in a mentor role and teach more junior writers the ins and outs. 
+Below are a few examples of tutorials and reference guides I have created from scratch.
 
-I have mainly worked within scrum teams to write my documentation. I enjoy this approach because it allows me to be involved in decisions early on to help avoid more documentation issues. Sometimes writing out a process in a draft can show product and development that we should reconsider how a feature works.
+- **Tutorial for creating a yaml template**: [view the article online](https://docs.flywheel.io/hc/en-us/articles/1500006024162-Overview) or download the [PDF](/assets/pdfs/Create_a_template_for_uploading_data-en.pdf)
+- **Reference article for config file**: [view the article online](https://docs.flywheel.io/hc/en-us/articles/4406976465939-The-OHIF-config-file) or download the [PDF](/assets/pdfs/The_OHIF_config_file-en.pdf)
 
-# Tools I've used
- My strongest skill is the ability to learn new tools. New tools are coming out all time to help build great documentation, so I am a strong believer in one of my most useful skills is being able to learn how to use new tools as the role requires. 
-But in case you are wondering, here's some tools I have used in the past. 
-## Static Sites
-Static sites are great ways to create and publish clean, efficient documentation. I have experience integrating staic sites generators into Gitlab workflows, so that API and developer documentation can be updated along with the code. 
+ 
+# Static sites
+I have built a few sites using static site generators, and I think they are great ways to create clean, efficient documentation. 
 
-This site was even made with [Jekyll](https://jekyllrb.com/)! 
+Below are some sites I have built myself: 
 
-Here's an example of the developer documentation portal I created: 
+Developer documentation including an auto-generated API reference from an openAPI spec. [See the developer documentation](https://sdk.flywheel.io)
 
-![Developer Documentation portal](/assets/images/DeveloperDocumentationPortal.png)
+![Developer Documentation portal](/assets/images/DeveloperDocumentationPortal.png) 
 
-or you can [view it yourself](https://sdk.flywheel.io)
 
-## Structured authoring
+You can also take a look at [my Github project for this site](https://github.com/ExplainerEmily/ExplainerEmily.github.io) (this site was made with [Jekyll](https://jekyllrb.com/)! )
+ 
 
-After reviewing the vast options available to create and maintain documentation, I choose to go with the structured authoring approach. Paligo is an XML-based tool that allows me to write once and publish to multiple forms.  
-
-## Other tools to help get the job done
+# Tools
+Here are the tools I've used to build the examples above: 
 - Jira
 - Confluence
 - Adobe Illustrator and Photoshop
-- Mindtouch (CMS)
+- Mindtouch
 - Zendesk Guide
 - Gitlab
 - Github
+- Paligo
 - SnagIt
-- Visual studio
 
-# Relevant Skills
-- Python (read and understand with some beginner ability to write my own code)
+# Skills
+And here are some of the skills I used:
+- Python 
 - HTML
 - CSS
 - Markdown
