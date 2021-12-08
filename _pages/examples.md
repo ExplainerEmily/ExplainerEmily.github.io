@@ -13,21 +13,27 @@ UX text is such an important piece of the documentation puzzle– it can answer 
 Here's some examples of times when I have collaborated with product designers and developers to create helpful UX text. 
 
 **Empty state**
+
 Empty states are under utilized in my opinion. I think they can be a great way to set users up for success when they are about to start a process that takes multiple steps.
 ![Authentication Empty State](/assets/images/EmptyStateAddSSO.png)
 ![Add Provisioning](/assets/images/AddProvisioningUXText.png)
 
 **Helping users update settings**
+
 These screens help give users context into their actions without having to go to the doc site. I worked with user personas to make sure these screens were easily understood by our audience. 
+
 ![Authentication Settings](/assets/images/AuthenticationUXText.png)
 ![Mapping Options](/assets/images/ModalMappingUXText.png)
 ![Frequency and versions](/assets/images/frequencyandversions.png)
 
 **Alerts**
+
 Sometimes there are too many details to include in the UX itself, so in those cases I like to link users directly to the doc page they need. 
+
 ![Notification](/assets/images/CloudSSO-identity-mgmt-details.png)
 
 # Product documentation
+
 I am an expert in creating the right content needed for a feature, release, or integration. I collect data from site analytics, support tickets, and internal stakeholders to prioritize documentation needs. 
 
 Below are a few examples of tutorials and reference guides I have created from scratch.
