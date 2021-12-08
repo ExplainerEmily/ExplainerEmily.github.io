@@ -177,7 +177,7 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: #CB997E;
+  background: #798777;
 
   a {
     display: block;
@@ -194,7 +194,7 @@
     &.site-logo {
       margin-left: 0;
       margin-right: 0.5rem;
-      color: #A06240;
+      color: #A2B29F;
     }
 
     &.site-title {
@@ -245,7 +245,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #A06240;
+        background: #A2B29F;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -287,7 +287,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: #555A49;
+        background: #798777;
       }
     }
 
@@ -520,14 +520,14 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: #404337;
+    background:#798777;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
 
   // Scrollspy marks toc items as .active when they are in focus
   .active a {
-    color:#CB997E;
+    color:#A2B29F;
   }
 }
 
