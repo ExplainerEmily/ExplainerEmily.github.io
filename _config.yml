@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Emily Trudeau"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technical writer, budding gardener, and cheese curd aficionado based in Minneapolis"
+  bio    : "Technical writer, budding gardener, and cheese curd aficionado based in the Fargo Moorhead area"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
