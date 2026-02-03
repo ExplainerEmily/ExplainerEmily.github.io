@@ -19,9 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Get to know more about my work and who I am 
 baseurl: ""
 github_username: ExplainerEmily
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: mint
-search: true
+remote_theme: pages-themes/minimal@v0.2.0
 github: [metadata]
 
 # Build settings
@@ -58,8 +56,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-   
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+   
 author:
   name   : "Emily Trudeau"
   avatar : "/assets/images/bio-photo.jpg"
